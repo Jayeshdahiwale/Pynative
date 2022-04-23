@@ -9,7 +9,6 @@
 """
 # outer function
 def outer_fun(a, b):
-    square = a ** 2
 
     # inner function
     def addition(a, b):
